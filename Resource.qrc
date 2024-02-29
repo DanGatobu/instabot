@@ -1,0 +1,26 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>Icons/image_fx_follow_sign_held_by_a_robot.png</file>
+    <file>Icons/image_fx_robot_holding_a_sign_with_the_words_post_writ.png</file>
+    <file>Icons/image_fx_robot_holding_a_sign_with_the_words_story_wri.png</file>
+    <file>Icons/image_fx_un_follow_sign_held_by_a_robot.png</file>
+    <file>Icons/image_fx_control_icon_with_tiny_robots.png</file>
+    <file>Icons/image_fx_accounts_icon_with_tiny_robots.png</file>
+    <file>Icons/adjustment.png</file>
+    <file>Icons/ai.png</file>
+    <file>Icons/cancel.png</file>
+    <file>Icons/development.png</file>
+    <file>Icons/home.png</file>
+    <file>Icons/image_fx_cool_robot_from_mad_max_road_of_holding_a_hug (1).png</file>
+    <file>Icons/image_fx_cool_robot_from_mad_max_road_of_holding_a_hug (2).png</file>
+    <file>Icons/menu-bar.png</file>
+    <file>Icons/power-button.png</file>
+    <file>Icons/robot.png</file>
+    <file>Icons/support.png</file>
+    <file>Icons/switch-off.png</file>
+    <file>Icons/switch-on (1).png</file>
+    <file>Icons/switch-on.png</file>
+    <file>Icons/user (1).png</file>
+    <file>Icons/user.png</file>
+  </qresource>
+</RCC>
